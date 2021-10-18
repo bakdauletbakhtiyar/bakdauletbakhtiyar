@@ -1,0 +1,30 @@
+.header{
+	position: relative;
+	background-color: white;
+	display: flex;
+	/*background color: white;*/
+	text-decoration: none;
+	padding: 10px 20px;
+	border-bottom: 2px solid bisque ;
+	justify-content: space-between;
+	font-family: 'Andale Mono', monospace;
+}
+.search{
+    border: 1px solid #ccc;
+    display: inline-block;
+    border-radius: 3px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    /*position: absolute;*/
+    height: 25px;
+  }
+  .header a{
+	/*opacity: ;*/
+	color: black;
+	margin-top: 15px;
+}
+.card-group{
+    margin-left: 5%;
+    margin-right: 5%;
+}
